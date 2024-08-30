@@ -16,7 +16,7 @@ const NightmareFox: NextPage = () => {
               width={160}
               height={160}
               className="w-full h-full object-cover"
-              style={{ aspectRatio: "1 / 1", objectFit: "cover" }}
+              style={{ aspectRatio: "1/1", objectFit: "cover" }}
             />
           </div>
           <div className="space-y-2 text-center md:text-left">
